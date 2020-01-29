@@ -1,0 +1,5 @@
+{
+    "git.showPushSuccessNotification": true,
+    "git.autofetch": true,
+    "git.allowForcePush": true
+}
